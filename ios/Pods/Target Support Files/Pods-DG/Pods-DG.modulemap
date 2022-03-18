@@ -1,0 +1,6 @@
+module Pods_DG {
+  umbrella header "Pods-DG-umbrella.h"
+
+  export *
+  module * { export * }
+}

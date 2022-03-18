@@ -1,0 +1,6 @@
+module Pods_DG_DGTests {
+  umbrella header "Pods-DG-DGTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

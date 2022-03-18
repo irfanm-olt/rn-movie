@@ -1,0 +1,4 @@
+#Fri Mar 18 11:30:02 IST 2022
+base.0=/Users/irfan/projects/test/DG/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
